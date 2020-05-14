@@ -1,4 +1,10 @@
 # Описание разметки файла README.md
+
+## Дл GitLab
+- [GitLab Markdown](https://gitlab.com/help/user/markdown.md)
+- For example, a title of ```docs/my-page``` will create a wiki page with a path ```/wikis/docs/my-page```.
+
+## Дл GitHub
 Для описания проектов на GitHub используется README.md, который пишется на языке разметки markdown. Что и как поддерживается расписано ниже. Также существует еще один формат - [reStructuredText](https://github.com/GnuriaN/format-README/blob/master/README.rst), описание которого вынесено в отдельный файл `README.rst`.
 
 ## Оглавление
